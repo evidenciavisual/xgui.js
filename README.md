@@ -1,6 +1,7 @@
 xgui.js
 =======
 
+(original concept: oosmoxiecode/xgui.js)
 Some simple gui stuff to try and make js experimentation a bit easier.
 
 The idea is to be able to quickly set up a bunch of sliders, knobs, colorPickers, etc. and bind the values of these to objects or functions.
